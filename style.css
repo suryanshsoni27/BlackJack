@@ -1,0 +1,72 @@
+
+.container-5 {
+    border: 3px solid black;
+    width:75 %;
+    margin: 0 auto;
+    text-align: center;
+  
+}
+
+.flex-blackjack-row-1, .flex-blackjack-row-2, .flex-blackjack-row-3 {
+    border: flex;
+    border:1px solid black;
+    display: flex;
+    flex-wrap: row;
+    flex-direction: row;
+    justify-content:space-around;
+    color: white;
+
+    
+}
+
+ table, td,tr {
+    color:white;
+    background-color:red;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.flex-blackjack-row-1 {
+    background: url("https://image.freepik.com/free-photo/green-poker-background_87414-2508.jpg");
+    color: white;
+
+}
+
+
+
+.flex-blackjack-row-2 button {
+    border: 1px solid black;
+    padding: 10px;
+
+}
+
+.flex-blackjack-row-2 div {
+    border: 1px solid black;
+
+}
+
+
+.flex-blackjack-row-2, .container-5 {
+    background: url("https://image.shutterstock.com/image-vector/dark-purple-vector-abstract-blurred-600w-617918969.jpg");
+    color: white;
+    background-color: purple;
+  
+}
+
+.flex-blackjack-row-1 div{
+    border:5px solid black;
+    padding:10px;
+    height:350px;
+    text-align: center;
+    flex:1
+
+
+}
+.flex-blackjack-row-1 img{
+    width: 25%;
+    padding:10px;
+    
+
+
+
+}
